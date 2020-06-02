@@ -4,6 +4,9 @@ Contains useful notes, scripts, codes, trainings
 ## Free Training
 * [Fortinet NSE Institute](https://training.fortinet.com) 
 
+## Tools
+* [GNS3](https://gns3.com/) - virtual environment for real-time network simulation
+
 ## Home Labs
 * [Linux-VServer](http://linux-vserver.org/Welcome_to_Linux-VServer.org)
 * [Resources to Build Enterprise Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) - Ismael Valenzuela [@aboutsecurity](https://github.com/aboutsecurity)
