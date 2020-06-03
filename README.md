@@ -7,6 +7,7 @@ Contains useful notes, scripts, codes, trainings
 ## Tools
 * [GNS3](https://gns3.com/) - virtual environment for real-time network simulation
 * [Empire](https://github.com/BC-SECURITY/Empire) and [Starkiller](https://github.com/BC-SECURITY/Starkiller) - C2 by BC Security [@BCSecurity1](https://twitter.com/BCSecurity1)
+* [Sliver](https://github.com/BishopFox/sliver) - C2 by BISHOPFOX [@bishopfox](https://twitter.com/bishopfox) 
 
 ## Cheat Sheet
 * [PowerUp Cheat Sheet](https://h4ck.co/wp-content/uploads/2017/11/PowerUp.pdf) - Will Schroeder [@harmj0y](https://twitter.com/harmj0y)
@@ -30,3 +31,4 @@ Contains useful notes, scripts, codes, trainings
 
 ## Red Team
 * [An Introduction to Starkiller](https://www.bc-security.org/post/an-introduction-to-starkiller/)
+* [Sliver: Cross-platform General Purpose Implant Framework Written in Golang](https://know.bishopfox.com/research/sliver)
