@@ -25,7 +25,7 @@ Contains useful notes, scripts, codes, trainings
 
 ## OSINT
 * [OSINT Framework](https://osintframework.com)
-* [OSINT Open Source Intelligence Framework](https://osintframework.de)
+* [OSINT Open Source Intelligence Framework](http://osintframework.de)
 * [IntelligenceX](https://intelx.io/tools)
 * [Your OSINT Graphical Analyzer (YOGA)](https://yoga.osint.ninja/)
 
