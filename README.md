@@ -26,6 +26,9 @@ Contains useful notes, scripts, codes, trainings
 ## Security Configurations
 * [U.S. Government Configuration Baseline](https://csrc.nist.gov/Projects/United-States-Government-Configuration-Baseline)
 
+## Virtual Conferences, Summits, Talks
+* [DISC-SANS ICS Virtual Conference - May 2020](https://hub.dragos.com/disc-sans-virtual-conference-may-2020)
+
 ## Blue Team
 * [A Brief Introduction to auditd](https://security.blogoverflow.com/2013/01/a-brief-introduction-to-auditd/)
 * [14 tail and head commands in Linux/Unix](https://www.linux.com/training-tutorials/14-tail-and-head-commands-linuxunix/)
