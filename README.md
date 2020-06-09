@@ -23,6 +23,12 @@ Contains useful notes, scripts, codes, trainings
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653) - Sean Metcalf [@PyroTek3](https://twitter.com/PyroTek3)
 * [Detection Lab](https://github.com/clong/DetectionLab) - Chris Long [@clong](https://github.com/clong)
 
+## OSINT
+* [OSINT Framework](https://osintframework.com)
+* [OSINT Open Source Intelligence Framework](https://osintframework.de)
+* [IntelligenceX](https://intelx.io/tools)
+* [Your OSINT Graphical Analyzer (YOGA)](https://yoga.osint.ninja/)
+
 ## Security Configurations
 * [U.S. Government Configuration Baseline](https://csrc.nist.gov/Projects/United-States-Government-Configuration-Baseline)
 
