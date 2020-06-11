@@ -24,6 +24,7 @@ Contains useful notes, scripts, codes, trainings
 * [Detection Lab](https://github.com/clong/DetectionLab) - Chris Long [@clong](https://github.com/clong)
 
 ## OSINT
+* ["Must Have" Free Resources for Open-Source Intelligence (OSINT)](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
 * [OSINT Framework](https://osintframework.com)
 * [OSINT Open Source Intelligence Framework](http://osintframework.de)
 * [IntelligenceX](https://intelx.io/tools)
