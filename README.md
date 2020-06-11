@@ -3,6 +3,7 @@ Contains useful notes, scripts, codes, trainings
 
 ## Free Training
 * [Fortinet NSE Institute](https://training.fortinet.com) 
+* [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
 ## Tools
 * [GNS3](https://gns3.com/) - virtual environment for real-time network simulation
