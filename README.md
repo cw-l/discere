@@ -9,6 +9,8 @@ Contains useful notes, scripts, codes, trainings
 * [Empire](https://github.com/BC-SECURITY/Empire) and [Starkiller](https://github.com/BC-SECURITY/Starkiller) - C2 by BC Security [@BCSecurity1](https://twitter.com/BCSecurity1)
 * [Sliver](https://github.com/BishopFox/sliver) - C2 by BISHOPFOX [@bishopfox](https://twitter.com/bishopfox) 
 * [Serverless Prey](https://github.com/pumasecurity/serverless-prey) - Reverse Shell by Puma Security [@puma_scan](https://twitter.com/puma_scan)
+* [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss) - Automatically extract obfuscated strings from malware.
+* [shellcode2exe](https://github.com/repnz/shellcode2exe) - Batch script to compile a binary shellcode blob into an exe file
 
 ## Cheat Sheet
 * [PowerUp Cheat Sheet](https://h4ck.co/wp-content/uploads/2017/11/PowerUp.pdf) - Will Schroeder [@harmj0y](https://twitter.com/harmj0y)
