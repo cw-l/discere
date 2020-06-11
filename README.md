@@ -2,6 +2,7 @@
 Contains useful notes, scripts, codes, trainings
 
 ## Free Training
+* [U.S. Cyber and Infrastructure Security Agency (CISA) ICS-CERT Virtual Learning Portal (VLP)](https://ics-cert-training.inl.gov/learn)
 * [Fortinet NSE Institute](https://training.fortinet.com) 
 * [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
@@ -32,6 +33,9 @@ Contains useful notes, scripts, codes, trainings
 * [OSINT Open Source Intelligence Framework](http://osintframework.de)
 * [IntelligenceX](https://intelx.io/tools)
 * [Your OSINT Graphical Analyzer (YOGA)](https://yoga.osint.ninja/)
+
+## Malware Analysis
+* ["Must Have" Free Resources for Malware Analysis](https://www.sans.org/blog/-must-have-free-resources-for-malware-analysis/)
 
 ## Security Configurations
 * [U.S. Government Configuration Baseline](https://csrc.nist.gov/Projects/United-States-Government-Configuration-Baseline)
