@@ -4,6 +4,9 @@ Contains useful notes, scripts, codes, trainings
 ## Free Training
 * [U.S. Cyber and Infrastructure Security Agency (CISA) ICS-CERT Virtual Learning Portal (VLP)](https://ics-cert-training.inl.gov/learn)
 * [Fortinet NSE Institute](https://training.fortinet.com) 
+* [Qualys](https://www.qualys.com/training/)
+* [Elastic](https://www.elastic.co/training/free)
+* [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
 * [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
 ## Tools
