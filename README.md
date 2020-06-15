@@ -9,6 +9,9 @@ Contains useful notes, scripts, codes, trainings
 * [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
 * [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
+## Books
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
 ## Tools
 * [GNS3](https://gns3.com/) - virtual environment for real-time network simulation
 * [Empire](https://github.com/BC-SECURITY/Empire) and [Starkiller](https://github.com/BC-SECURITY/Starkiller) - C2 by BC Security [@BCSecurity1](https://twitter.com/BCSecurity1)
