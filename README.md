@@ -52,6 +52,8 @@ Contains useful notes, scripts, codes, trainings
 ## Blue Team
 * [A Brief Introduction to auditd](https://security.blogoverflow.com/2013/01/a-brief-introduction-to-auditd/)
 * [14 tail and head commands in Linux/Unix](https://www.linux.com/training-tutorials/14-tail-and-head-commands-linuxunix/)
+* [Linux Security Guide for Hardening IPv6](https://linux-audit.com/linux-security-guide-for-hardening-ipv6/)
+* [Kernel Hardening: Disable and Blacklist Linux Modules](https://linux-audit.com/kernel-hardening-disable-and-blacklist-linux-modules/)
 
 ## Red Team
 * [An Introduction to Starkiller](https://www.bc-security.org/post/an-introduction-to-starkiller/)
