@@ -44,6 +44,7 @@ Contains useful notes, scripts, codes, trainings
 
 ## Malware Analysis
 * ["Must Have" Free Resources for Malware Analysis](https://www.sans.org/blog/-must-have-free-resources-for-malware-analysis/)
+* [Malware Traffic Analysis Net](http://malware-traffic-analysis.net) - A source for pcap files and malware samples...
 
 ## Security Configurations
 * [U.S. Government Configuration Baseline](https://csrc.nist.gov/Projects/United-States-Government-Configuration-Baseline)
