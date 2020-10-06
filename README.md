@@ -19,6 +19,8 @@ Contains useful notes, scripts, codes, trainings
 * [Serverless Prey](https://github.com/pumasecurity/serverless-prey) - Reverse Shell by Puma Security [@puma_scan](https://twitter.com/puma_scan)
 * [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss) - Automatically extract obfuscated strings from malware.
 * [shellcode2exe](https://github.com/repnz/shellcode2exe) - Batch script to compile a binary shellcode blob into an exe file
+* [Scapy](https://scapy.net) - Packet crafting for Python2 and Python3
+* [Python Tutor - Visualize](http://www.pythontutor.com/visualize.html#mode=edit) - Visualize Python script execution
 
 ## Cheat Sheet
 * [PowerUp Cheat Sheet](https://h4ck.co/wp-content/uploads/2017/11/PowerUp.pdf) - Will Schroeder [@harmj0y](https://twitter.com/harmj0y)
