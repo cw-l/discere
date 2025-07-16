@@ -9,8 +9,13 @@ Contains useful notes, scripts, codes, trainings
 * [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
 * [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
-## Books
+## Books, Papers & Presentations
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [System Programming in Linux: A Hands-On Introduction by Stewart Weiss](https://github.com/stewartweiss/intro-linux-sys-prog)
+* [Microsoft Security Response Center (MSRC) - Security Research](https://github.com/microsoft/MSRC-Security-Research)
+
+## Security Operations
+* [CISA - Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation)
 
 ## Tools
 * [GNS3](https://gns3.com/) - virtual environment for real-time network simulation
@@ -46,6 +51,22 @@ Contains useful notes, scripts, codes, trainings
 * ["Must Have" Free Resources for Malware Analysis](https://www.sans.org/blog/-must-have-free-resources-for-malware-analysis/)
 * [Malware Traffic Analysis Net](http://malware-traffic-analysis.net) - A source for pcap files and malware samples...
 
+## Ransomware
+* [Canadian Investment Regulatory Organization - Ransomware Response Playbook](https://www.ciro.ca/sites/default/files/2024-02/CIRO-Ransomware-Response-Playbook-EN.pdf)
+* [Canadian Centre for Cyber Security - Ransomware Playbook](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+* [SANS - Communication During a Cyber Incident (Ransomware)](https://www.sans.org/blog/stay-ahead-of-ransomware-communication-during-cyber-incident/)
+* [Trend Micro - What To Expect in a Ransomware Negotiation](https://www.trendmicro.com/en_sg/research/21/j/what-to-expect-in-a-ransomware-negotiation-.html)
+
+## Quantum
+* [SANS - Unpacking the Quantum Revolution (and How to Defend Against It)](https://www.sans.org/blog/emerging-threats-summit-2025-recap-unpacking-quantum-revolution/)
+
+## Vulnerability Management
+* [CISA - KEV Catalogue](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+* [CISA - Reducing the Significant Risk of Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities)
+
+## Regulatory Compliance
+* [SANS - Navigating DORA and NIS2 Compliance for Financial Sector Organisations in the EU](https://www.sans.org/blog/navigating-dora-nis2-compliance-eu-financial-sector-organisations/)
+
 ## Security Configurations
 * [U.S. Government Configuration Baseline](https://csrc.nist.gov/Projects/United-States-Government-Configuration-Baseline)
 
@@ -62,3 +83,4 @@ Contains useful notes, scripts, codes, trainings
 * [An Introduction to Starkiller](https://www.bc-security.org/post/an-introduction-to-starkiller/)
 * [Sliver: Cross-platform General Purpose Implant Framework Written in Golang](https://know.bishopfox.com/research/sliver)
 * [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
+* [Joas A Santos - Red Team Management](https://github.com/CyberSecurityUP/Red-Team-Management)
