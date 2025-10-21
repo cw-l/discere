@@ -13,6 +13,7 @@ Contains useful notes, scripts, codes, trainings
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [System Programming in Linux: A Hands-On Introduction by Stewart Weiss](https://github.com/stewartweiss/intro-linux-sys-prog)
 * [Microsoft Security Response Center (MSRC) - Security Research](https://github.com/microsoft/MSRC-Security-Research)
+* [Google - SRE Books](https://sre.google/books/)
 
 ## Security Operations
 * [CISA - Guidance for SIEM and SOAR Implementation](https://www.cisa.gov/resources-tools/resources/guidance-siem-and-soar-implementation)
