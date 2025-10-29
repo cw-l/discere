@@ -28,6 +28,6 @@
 [^10]: [Incident Response and Management Procedures](https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20100622-1-EN/20100622-1-EN.pdf)
 [^11]: [Security of Critical Infrastructure Act 2018](https://www.legislation.gov.au/C2018A00029/latest/text)
 [^12]: [Cyber Security Act 2024](https://www.legislation.gov.au/C2024A00098/latest/text)
-[^13]: [](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/preventing-preparing-for-and-responding-to-data-breaches/data-breach-preparation-and-response/part-4-notifiable-data-breach-ndb-scheme)
+[^13]: [Notifiable Data Breach Scheme](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/preventing-preparing-for-and-responding-to-data-breaches/data-breach-preparation-and-response/part-4-notifiable-data-breach-ndb-scheme)
 [^14]: [Prudential Standard CPS 234 Information Security](https://www.legislation.gov.au/F2018L01745/latest/text)
 [^15]: [Reportable situations for AFS and credit licensees](https://www.asic.gov.au/regulatory-resources/financial-services/reportable-situations-for-afs-and-credit-licensees/#:~:text=AFS%20and%20credit%20licensees%20must%20notify%20ASIC%20of%20reportable%20situations,that%2C%20or%20is%20reckless%20with)
