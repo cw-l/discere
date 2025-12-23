@@ -13,7 +13,7 @@ And let's start with [resources](homelab.md) to build our home lab, for fun, lea
 A list of suggested [Baseline Disaster Recovery (DR) Scenarios](disaster_recovery_scenarios.md) with real-world disasters to back them up.
 
 ## Cyber
-Prepare yourself against [ransomware](ransomware.md), be it at home or work. As some say, the best form of defense is [offensive](https://github.com/cw-l/offensive-security).
+Prepare yourself against [ransomware](ransomware.md), be it at home or work. As some say, the best form of defense is [offensive](https://github.com/cw-l/offensive-security). But you still need your [Blue Team](https://github.com/cw-l/defensive-security) for sure.
 
 ## Risks
 
